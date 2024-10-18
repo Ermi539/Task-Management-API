@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-wt5d#naua6jriqog35%4#tkt+lk0j8y_=ozipqz1)p)j(g_ntu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['taskmanager-1-ts1g.onrender.com',
+ALLOWED_HOSTS = ['task-management-api-lyn6.onrender.com',
                 'localhost',  # For local development
                 '127.0.0.1',]
 
